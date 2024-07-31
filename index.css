@@ -466,7 +466,8 @@ transform: scale(1.1);
       padding-right: 100px; 
         font-size:xx-large;
         text-align: center;
-    }.item-content{
+    }
+    .item-content{
         margin-top: 100px;
     }
     .item-content .item-box{
